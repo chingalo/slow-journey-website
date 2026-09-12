@@ -553,6 +553,18 @@ a {
   padding: 48px 20px 12px;
 }
 
+.page-hero .section__inner {
+  width: min(760px, calc(100% - 40px));
+}
+
+#rhythm,
+#features,
+#look,
+#privacy,
+#contact {
+  scroll-margin-top: 88px;
+}
+
 .meta {
   color: var(--ink-600);
 }
