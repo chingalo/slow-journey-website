@@ -10,7 +10,7 @@ Deployed with GitHub Pages on pushes to `main` (see [`.github/workflows/deploy-p
 
 Expected URL after Pages is enabled:
 
-[https://chingalo-family.github.io/slow-journey-website/](https://chingalo-family.github.io/slow-journey-website/)
+[https://chingalo.github.io/slow-journey-website/](https://chingalo.github.io/slow-journey-website/)
 
 ## Local development
 
